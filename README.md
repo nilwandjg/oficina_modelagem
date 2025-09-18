@@ -16,11 +16,14 @@ Projeto prático desenvolvido na plataforma **DIO** em parceria com a **Randstad
 ## 🛠️ Ferramentas
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
-## 📷 Diagrama
-
 ## 🤝 Relacionamentos no DER
 - Um cliente pode ter vários veículos, mas cada veículo pertence a um único cliente;
 - Cada veículo pode ter várias ordens de serviço associadas;
 - Cada OS é atribuída a uma equipe que executa os serviços;
 - Uma equipe pode ter vários mecânicos, e um mecânico pode participar de várias equipes (via tabela);
 - Uma OS pode incluir várias peças, e uma peça pode aparecer em várias Ordem de serviço (via tabela).
+
+## 📷 Diagrama
+![Diagrama Oficina](projeto_oficina.png)
+
+
