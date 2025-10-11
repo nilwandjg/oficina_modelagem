@@ -1,7 +1,7 @@
 # Projeto Oficina
 
 ## 📋 Descrição
-Projeto prático desenvolvido na plataforma **DIO** em parceria com a **Randstad**, com o objetivo de modelar todas as entidades, relacionamentos e atributos de uma oficina.
+Projeto prático desenvolvido na plataforma **DIO** com o objetivo de modelar todas as entidades, relacionamentos e atributos de uma oficina.
 
 ## 🎯 Objetivo
 Criar o esquema conceitual para o contexto de oficina com base na narrativa fornecida.
